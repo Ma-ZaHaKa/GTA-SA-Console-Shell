@@ -1,0 +1,10 @@
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\bin\Debug\GTA-SA Console Shell.exe.config
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\bin\Debug\GTA-SA Console Shell.exe
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\bin\Debug\GTA-SA Console Shell.pdb
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\obj\Debug\GTA-SA Console Shell.csprojAssemblyReference.cache
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\obj\Debug\GTA-SA Console Shell.csproj.CoreCompileInputs.cache
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\obj\Debug\GTA-SA Console Shell.exe
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\obj\Debug\GTA-SA Console Shell.pdb
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BATON\Documents\Visual Studio 2017\Projects\GTA-SA Console Shell\GTA-SA Console Shell\obj\Debug\GTA-SA Console Shell.csproj.CopyComplete
